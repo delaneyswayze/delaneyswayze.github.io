@@ -5,11 +5,8 @@ h1{
 background-color:#7575a3;
 font-size:2em;
 }
- body{
-  background-color:4d94ff;
-}
-
- p.thick{
-  font-weight: bold;
+p.fancy{
+color:#666;
+font-style: oblique;
 }
   
